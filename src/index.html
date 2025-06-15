@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Stadium Visualiser</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <section class="selector">
+            <div class="filter-container">
+                <div class="state-container">
+                    <label for="state">State</label>
+                    <select name="state" id="state">
+                        <option hidden>Choose a state...</option>
+                        <option value="NSW">NSW</option>
+                        <option value="QLD">QLD</option>
+                        <option value="VIC">VIC</option>
+                        <option value="WA">WA</option>
+                        <option value="NT">NT</option>
+                        <option value="ACT">ACT</option>
+                        <option value="NZ">NZ</option>
+                    </select>
+                </div>
+
+                <div class="team-images-container">
+                    <div id="team-header">Teams</div>
+                    <div class="team-container">
+                        <!--Team logos get generated here-->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <main class="content">
+            <section class="stadium-section">
+                <h3>Stadiums</h3>
+                <p>Stadiums that match your criteria</p>
+                <div class="stadium-options-container">
+                    <!--Stadium containers get generated here-->
+                </div>
+            </section>
+            <section class="games-section">
+                <div class="toggle-container">
+                    <div class="checkbox-container">
+                        <label for="upcomingCb">
+                            Upcoming Games Only
+                        </label>
+                        <input type="checkbox" id="upcomingCb" name="upcomingCb" checked>
+                    </div>
+
+                    <p>View By</p>
+                    <div class="button-container">
+                        <button id="round-toggle" class="toggle-selected">Round</button>
+                        <button id="stadium-toggle" class="toggle-unselected">Stadium</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </body>
+</html>
+<script type="module" src="/dist/main.js"></script>

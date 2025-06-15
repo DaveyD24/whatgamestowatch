@@ -1,0 +1,343 @@
+{
+  "stadiums":
+  [
+    {
+      "venue": "Allianz Stadium",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Sydney",
+          "teamName": "Roosters"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Campbelltown Sports Stadium",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Wests",
+          "teamName": "Tigers"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Commbank Stadium",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Sydney",
+          "teamName": "Roosters"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Netstrata Jubilee Stadium",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "St George Illawarra",
+          "teamName": "Dragons"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "4 Pines Park",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Manly Warringah",
+          "teamName": "Sea Eagles"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "AAMI Park",
+      "state": "VIC",
+      "city": "Melbourne",
+      "homeTeams": [
+        {
+          "localName": "Melbourne",
+          "teamName": "Storm"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "McDonald Jones Stadium",
+      "state": "NSW",
+      "city": "Newcastle",
+      "homeTeams": [
+        {
+          "localName": "Newcastle",
+          "teamName": "Knights"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Go Media Stadium",
+      "state": "NZ",
+      "city": "Auckland",
+      "homeTeams": [
+        {
+          "localName": "New Zealand",
+          "teamName": "Warriors"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "WIN Stadium",
+      "state": "NSW",
+      "city": "Wollongong",
+      "homeTeams": [
+        {
+          "localName": "St George Illawarra",
+          "teamName": "Dragons"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Queensland Country Bank Stadium",
+      "state": "QLD",
+      "city": "Townsville",
+      "homeTeams": [
+        {
+          "localName": "North Queensland",
+          "teamName": "Cowboys"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "GIO Stadium",
+      "state": "ACT",
+      "city": "Canberra",
+      "homeTeams": [
+        {
+          "localName": "Canberra",
+          "teamName": "Raiders"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Belmore Sports Ground",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Canterbury Bankstown",
+          "teamName": "Bulldogs"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Suncorp Stadium",
+      "state": "QLD",
+      "city": "Brisbane",
+      "homeTeams": [
+        {
+          "localName": "Brisbane",
+          "teamName": "Broncos"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Sharks Stadium",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Cronulla",
+          "teamName": "Sharks"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Kayo Stadium",
+      "state": "QLD",
+      "city": "Redcliffe",
+      "homeTeams": [
+        {
+          "localName": "Redcliffe",
+          "teamName": "Dolphins"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Cbus Super Stadium",
+      "state": "QLD",
+      "city": "Gold Coast",
+      "homeTeams": [
+        {
+          "localName": "Gold Coast",
+          "teamName": "Titans"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Accor Stadium",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Canterbury Bankstown",
+          "teamName": "Bulldogs"
+        },
+        {
+          "localName": "South Sydney",
+          "teamName": "Rabbitohs"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+
+
+
+
+
+    {
+      "venue": "Optus Stadium",
+      "state": "WA",
+      "city": "Perth",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "TIO Stadium",
+      "state": "NT",
+      "city": "Darwin",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Apollo Projects Stadium",
+      "state": "NZ",
+      "city": "Christchurch",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Leichhardt Oval",
+      "state": "NSW",
+      "city": "Sydney",
+      "homeTeams": [
+        {
+          "localName": "Wests",
+          "teamName": "Tigers"
+        }
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Carrington Park",
+      "state": "NSW",
+      "city": "Bathurst",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Industree Group Stadium",
+      "state": "NSW",
+      "city": "Gosford",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "HBF Park",
+      "state": "WA",
+      "city": "Perth",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    },
+    {
+      "venue": "Glen Willow Oval",
+      "state": "NSW",
+      "city": "Mudgee",
+      "homeTeams": [
+
+      ],
+      "games": [
+
+      ]
+    }
+  ]
+}
