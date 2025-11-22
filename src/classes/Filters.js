@@ -1,6 +1,5 @@
 import { DocumentElement } from "./Elements.js";
-import { allTeams } from "./Data.js";
-import { globalData } from "./2026data.js";
+import { allTeams, globalData } from "./Data.js";
 export class Filters {
     constructor() {
         this.state = "NSW";
@@ -228,7 +227,6 @@ function GetStadiumsByTeamsAndState(state, teams) {
 }
 
 function TeamPlaysAt(team, stadium) {
-
     for (const game of globalData.games) {
         if (game.homeTeam.teamName === team || game.awayTeam.teamName === team) {
             const gameStadium = globalData.stadiums.find(s => s.id === game.stadiumId);
@@ -256,12 +254,6 @@ function GetGames(state, teams, stadiums, upcoming) {
     const games = [];
     for (const stadium of stadiums) {
         for (const game of globalData.games) {
-            // console.log(game.stadiumId);
-            // console.log(stadium.id);
-            // console.log(stadium);
-            console.log(game.stadiumId);
-            const sdfsdfsdf = globalData.stadiums.find(s => s.id === game.stadiumId);
-            console.log(sdfsdfsdf)
             if (globalData.stadiums.find(s => s.id === game.stadiumId).venue === stadium) {
                 console.log(game);
                 if (upcoming && GameInPast(game)) {
