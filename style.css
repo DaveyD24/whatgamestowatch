@@ -323,7 +323,20 @@ body {
     box-shadow: -1px 6px 5px -1px rgba(0,0,0,0.34);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    animation: slowRise 0.5s ease-out forwards;
 }
+
+@keyframes slowRise {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
 .top-bar {
     width: 100%;
     height: 20%;
